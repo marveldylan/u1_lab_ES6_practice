@@ -9,7 +9,7 @@ We'll get some practice in with the new tools we've picked up with ES6!
 - Fork and Clone
 - Put your answers to the questions in this readme in the `solutions.js` file
 
-## Part 1 - Fat Arrow Functions
+## Part 1 - Arrow Functions
 
 Using only ES6 syntax, write a function for each question to accomplish the following (_hint_ write clean code, use some of these functions as 'helper functions' in other answers):
   1. Logs a message saying 'Hello world'. Call the function.
