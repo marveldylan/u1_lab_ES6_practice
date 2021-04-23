@@ -40,5 +40,5 @@ Using only ES6 syntax, write a function for each question to accomplish the foll
 ![doge](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 ## Resources
-- [ES6 Lesson](https://github.com/SEI-R-1-25/u1_lesson_js_es6)
+- [ES6 Lesson](https://github.com/SEI-R-1-25/u1_lesson_ES6)
 - [What is ES6?](https://www.educba.com/what-is-es6/)
