@@ -1,6 +1,6 @@
 # ES6 Practice
 
-![Fear](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F9goBZua2GOHkI%2Fgiphy.gif&f=1&nofb=1)
+![Fear](https://www.cloudsavvyit.com/p/uploads/2019/07/9608c9ff.png)
 
 ## Homework Overview
 We'll get some practice in with the new tools we've picked up with ES6!
@@ -35,8 +35,6 @@ Using only ES6 syntax, write a function for each question to accomplish the foll
   2. Use the destructuring syntax to extract all three keys into variables. Log all three variables.
   3. Now we are going to give you a pet. _Use destructuring_ to do the following: 1) add a pet object to your person, 2) define three variables (age, breed, name) outside of the object and 3) add those variables to your pet. 
   4. Log the most important thing about you: your pet's name.
-
-![doge](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 ## Resources
 - [What is ES6?](https://www.educba.com/what-is-es6/)
